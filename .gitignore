@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Smart Mirror project specific ---
+# Secrets and local configs
+config.yaml
+token.json          # Google API OAuth tokens
+credentials.json    # Google client secrets if you download them
